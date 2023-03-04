@@ -56,3 +56,5 @@ if int(map) >= -200 and int(map) <= -150:
 else:
     print(" ")
     print("Invalid map number, must be between -200 and -150.")
+    
+input("Press enter to exit...")
